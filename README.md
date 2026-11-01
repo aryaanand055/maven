@@ -7,3 +7,4 @@ This project is configured with Maven and Java 17, including an Azure Pipelines 
 - `src/test/java/org/example/MainTest.java`: Unit tests
 - `pom.xml`: Maven configuration targeting Java 17
 - `azure-pipelines.yml`: Azure DevOps pipeline configuration using `Maven@3` task
+

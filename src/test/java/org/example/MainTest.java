@@ -9,3 +9,4 @@ public class MainTest {
         assertEquals(5, Main.add(2, 3));
     }
 }
+
